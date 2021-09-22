@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-09-17T07:52:10.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="AbtJTxsZMDBbBZPqu9hU" version="15.0.2" type="github"><diagram id="U5RC5jBJaI7CumPjnWcF" name="第 1 页">ddG9DoIwEADgp+kOrRGcEXVxYnBu6EmbFI6UGtCnF3IgNujSXL+79vrDRFYPZydbfUUFlvFIDUwcGedJysdxgifBTuwJKmcUUbxCYV4wYzTrwyjogkKPaL1pQyyxaaD0gUnnsA/L7mjDrq2sYANFKe1Wb0Z5TZryZPULmEovneP9gTK1XIrnm3RaKuy/SORMZA7RU1QPGdjp7ZZ3oXWnP9nPwRw0/seCMVj3HifBB4n8DQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-22T07:54:03.604Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="FMH1EfoZ46uQi6Iz5H2-" version="15.2.9" type="github">
+  <diagram id="U5RC5jBJaI7CumPjnWcF" name="第 1 页">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OuWNoRdLK711ms7BwkTU-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OuWNoRdLK711ms7BwkTU-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OuWNoRdLK711ms7BwkTU-3" value="class字节码文件" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OuWNoRdLK711ms7BwkTU-4" value="classloader字节码加载子系统" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="334" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OuWNoRdLK711ms7BwkTU-5" value="运行时数据区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="570" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OuWNoRdLK711ms7BwkTU-6" value="解释引擎" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OuWNoRdLK711ms7BwkTU-7" value="本地方法" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OuWNoRdLK711ms7BwkTU-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="410" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OuWNoRdLK711ms7BwkTU-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="485" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OuWNoRdLK711ms7BwkTU-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="640" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OuWNoRdLK711ms7BwkTU-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="234" y="730" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
