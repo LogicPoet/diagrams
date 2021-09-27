@@ -1,1 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T02:57:58.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" version="15.2.9" etag="gH4F7ZjYqH5gnhCyjZv7" type="github"><diagram id="KXP1WVgq7Yu71ZbemCYI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-27T08:44:49.197Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="0in5e9oSfanfhOf6eMl9" version="15.2.9" type="github">
+  <diagram id="KXP1WVgq7Yu71ZbemCYI" name="第 1 页">
+    <mxGraphModel dx="920" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eoa2BYPm1ph143Ug-U2l-1" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="300" y="170" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eoa2BYPm1ph143Ug-U2l-2" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="135" y="320" as="sourcePoint" />
+            <mxPoint x="525" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eoa2BYPm1ph143Ug-U2l-3" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=70;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="315" y="125" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="eoa2BYPm1ph143Ug-U2l-5" value="生产令牌" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="10" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eoa2BYPm1ph143Ug-U2l-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eoa2BYPm1ph143Ug-U2l-8" target="eoa2BYPm1ph143Ug-U2l-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eoa2BYPm1ph143Ug-U2l-8" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="345" y="460" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eoa2BYPm1ph143Ug-U2l-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eoa2BYPm1ph143Ug-U2l-9" target="eoa2BYPm1ph143Ug-U2l-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="635" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eoa2BYPm1ph143Ug-U2l-9" value="令牌桶是否存在" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="345" y="585" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eoa2BYPm1ph143Ug-U2l-15" value="令牌桶的key&lt;br&gt;最大令牌数&lt;br&gt;令牌恢复速率" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="180" y="485" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eoa2BYPm1ph143Ug-U2l-16" value="令牌桶初始化" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="610" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
