@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T05:38:48.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" version="15.3.4" etag="HatnJ-NmofJlFaaBPeRM" type="github"><diagram id="qNKOv2YaCRDUcEwEDIzM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-29T05:46:10.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="5hFdSg0Hzpm_vXNeFPDP" version="15.3.4" type="github">
+  <diagram id="qNKOv2YaCRDUcEwEDIzM" name="第 1 页">
+    <mxGraphModel dx="1303" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DeFGx1jAkuTtKTEShOqz-1" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DeFGx1jAkuTtKTEShOqz-2" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="270" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DeFGx1jAkuTtKTEShOqz-3" value="Class文件" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="280" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DeFGx1jAkuTtKTEShOqz-4" value="类加载子系统" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="287.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DeFGx1jAkuTtKTEShOqz-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="295" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="DeFGx1jAkuTtKTEShOqz-6" value="运行时数据区" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="500" width="470" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DeFGx1jAkuTtKTEShOqz-7" value="执行引擎" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DeFGx1jAkuTtKTEShOqz-8" value="本地方法接口" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DeFGx1jAkuTtKTEShOqz-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;hachureGap=4;pointerEvents=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="530" y="400" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DeFGx1jAkuTtKTEShOqz-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;hachureGap=4;pointerEvents=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="460" y="400" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DeFGx1jAkuTtKTEShOqz-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;hachureGap=4;pointerEvents=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="450" y="670" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DeFGx1jAkuTtKTEShOqz-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;hachureGap=4;pointerEvents=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="380" y="670" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DeFGx1jAkuTtKTEShOqz-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;hachureGap=4;pointerEvents=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="197" y="670" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DeFGx1jAkuTtKTEShOqz-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;hachureGap=4;pointerEvents=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="140" y="670" width="106" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
